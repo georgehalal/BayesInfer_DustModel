@@ -1,0 +1,10 @@
+healpy
+numpy
+pysm
+matplotlib
+scipy
+emcee
+incredible
+pygtc
+multiprocessing
+dill
