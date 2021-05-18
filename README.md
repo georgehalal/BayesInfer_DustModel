@@ -21,8 +21,3 @@ git clone https://github.com/georgehalal/BayesInfer_DustModel.git
 cd BayesInfer_DustModel/
 pip install -r requirements.txt
 ```
-
-## Code Layout
-* `preprocess.py` - prepare the raw
-
-## Results
